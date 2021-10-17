@@ -1,0 +1,1952 @@
+[
+  {
+    "dna": "6d39604ddce6aa406fe7807c2421a827e4f37dc5",
+    "name": "#1",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/1.png",
+    "edition": 1,
+    "date": 1634484974417,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Tongue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "da45f99c3be0549a6064e32b629202519a2c8709",
+    "name": "#2",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/2.png",
+    "edition": 2,
+    "date": 1634484974989,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "32581469c3e5e8dfdf95f79c07e04ea5dfdd87cd",
+    "name": "#3",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/3.png",
+    "edition": 3,
+    "date": 1634484975649,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "6feaff42c2afdd13e6e2c9aa1560be915064ded0",
+    "name": "#4",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/4.png",
+    "edition": 4,
+    "date": 1634484976277,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "fancy_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "6326604f1dfd20b6a1e874d05cffadcccc10ef1a",
+    "name": "#5",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/5.png",
+    "edition": 5,
+    "date": 1634484976865,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Ninja Headband"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "f22aa48ab595bd14fc347ea0e4759f72acb02ec6",
+    "name": "#6",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/6.png",
+    "edition": 6,
+    "date": 1634484977320,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "code"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "3443bfed448f1431889677ae3735debf2cb5daef",
+    "name": "#7",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/7.png",
+    "edition": 7,
+    "date": 1634484977969,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "1ea805f82c19a814a4e4e57a5840dd1bb3695100",
+    "name": "#8",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/8.png",
+    "edition": 8,
+    "date": 1634484978553,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "6572d2ec2386813ae8a468a734afd8325516e2c9",
+    "name": "#9",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/9.png",
+    "edition": 9,
+    "date": 1634484979207,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "ca7ca276c09a98955e102068cce689d79c574d93",
+    "name": "#10",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/10.png",
+    "edition": 10,
+    "date": 1634484979858,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Face mask"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "2c6b4478bcc7fb3e5437aacb0b8db03aecc874dd",
+    "name": "#11",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/11.png",
+    "edition": 11,
+    "date": 1634484980538,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Purple cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0bf8731364f974847cfc45201033d67a1304fdb0",
+    "name": "#12",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/12.png",
+    "edition": 12,
+    "date": 1634484981098,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Aqua"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black suit"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "32acb919e3a39bf811b5aa5414183f186da6b402",
+    "name": "#13",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/13.png",
+    "edition": 13,
+    "date": 1634484981813,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d0ecda0baa6426cbb2f77368f935a17d5d1e57ed",
+    "name": "#14",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/14.png",
+    "edition": 14,
+    "date": 1634484982452,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "black"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Face mask"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "be36a351ce6141f79a0448c0e19e3985feecf54f",
+    "name": "#15",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/15.png",
+    "edition": 15,
+    "date": 1634484983093,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Spiral"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "23de52d8fc7765e9c039100a41f624f9e218ea5d",
+    "name": "#16",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/16.png",
+    "edition": 16,
+    "date": 1634484983622,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "fancy_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "2079edf5fc31143918dc501e0ee25ea499975dc0",
+    "name": "#17",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/17.png",
+    "edition": 17,
+    "date": 1634484984284,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Kawai"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Tongue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0cf5065eb9de3d32fc14851dee946039903db10e",
+    "name": "#18",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/18.png",
+    "edition": 18,
+    "date": 1634484984648,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "light_orange"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Ninja Headband"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "fd8b437e051c003201ca95cd1c5be60c8000adaf",
+    "name": "#19",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/19.png",
+    "edition": 19,
+    "date": 1634484985297,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "889992b05c41a6d0e358243274bb66c0cebba574",
+    "name": "#20",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/20.png",
+    "edition": 20,
+    "date": 1634484985921,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Black suit"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Face mask"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "wizard"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "5d4ccf989f5195451f41ba36e3c1c99363424a50",
+    "name": "#21",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/21.png",
+    "edition": 21,
+    "date": 1634484986509,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Aqua"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Purple cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d190a5a1b24cbec3e918718dcc11355ec74c0e53",
+    "name": "#22",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/22.png",
+    "edition": 22,
+    "date": 1634484987167,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Punched"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "921aade13de92680fcc3842eff65644650275b51",
+    "name": "#23",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/23.png",
+    "edition": 23,
+    "date": 1634484987869,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Red squares"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "594fc5ff1bf10fca086a3370c82f8028ab93c29c",
+    "name": "#24",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/24.png",
+    "edition": 24,
+    "date": 1634484988428,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "fb8dd09abcc9d0f667cf2a0e997d20d0e5fa6c95",
+    "name": "#25",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/25.png",
+    "edition": 25,
+    "date": 1634484989056,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "wizard"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "6d87f7e385bcacaadddf43a9a2b88e9c118fcad0",
+    "name": "#26",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/26.png",
+    "edition": 26,
+    "date": 1634484989726,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Ninja Headband"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "4fbee01193d0c2577d75e4d3093a636dcd079f5a",
+    "name": "#27",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/27.png",
+    "edition": 27,
+    "date": 1634484990080,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "light_green"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "3bc2914be99913a767d8506c8857c9a1d54fae17",
+    "name": "#28",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/28.png",
+    "edition": 28,
+    "date": 1634484990719,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Face mask"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "07d747139bf907b98b12e99403621e2769b5176a",
+    "name": "#29",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/29.png",
+    "edition": 29,
+    "date": 1634484991373,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "a17390c7f0afa155f98b8f7117f547b2d9088eba",
+    "name": "#30",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/30.png",
+    "edition": 30,
+    "date": 1634484991796,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "degraded_aqua"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0f9453036be58d4bba74b469a7401b3a4869533c",
+    "name": "#31",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/31.png",
+    "edition": 31,
+    "date": 1634484992467,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Sailor Captain"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "c104e920d7febdadcbbb3bb2d4d4638502a2c3e2",
+    "name": "#32",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/32.png",
+    "edition": 32,
+    "date": 1634484993115,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "wizard"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "edf4c2e79d0442fb328272af51abff275fec87f2",
+    "name": "#33",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/33.png",
+    "edition": 33,
+    "date": 1634484993775,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d265712abee7c83d1902caec9298fe68cde4f130",
+    "name": "#34",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/34.png",
+    "edition": 34,
+    "date": 1634484994136,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "8adeee2ae5817815c994c110d873886bfbbd89db",
+    "name": "#35",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/35.png",
+    "edition": 35,
+    "date": 1634484994803,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Crying"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "16425946897ca086bb828e4cea7d7c49d9501a29",
+    "name": "#36",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/36.png",
+    "edition": 36,
+    "date": 1634484995534,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Tongue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "10720162981597379b66882da2dfd8725aec8db5",
+    "name": "#37",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/37.png",
+    "edition": 37,
+    "date": 1634484996151,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "3f19d8a064bdd44aae3d366b788390efc0d9a8c9",
+    "name": "#38",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/38.png",
+    "edition": 38,
+    "date": 1634484996435,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "light_purple"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "4223aaa068b11239fd18f6fc06e126c0951fa434",
+    "name": "#39",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/39.png",
+    "edition": 39,
+    "date": 1634484997091,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Crying"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d4a2d93aaf32cdedfe8e74a4cf2da00c4891eaba",
+    "name": "#40",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/40.png",
+    "edition": 40,
+    "date": 1634484997795,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Purple cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "66f3279307c1f932606c70888eabcf7a355e0c2a",
+    "name": "#41",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/41.png",
+    "edition": 41,
+    "date": 1634484998494,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "900cd4aa3e7e257295b1d358a546dd7e92f9813e",
+    "name": "#42",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/42.png",
+    "edition": 42,
+    "date": 1634484999140,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "ec731c69a1c9b0851449fc67f3e45531b1aeecfc",
+    "name": "#43",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/43.png",
+    "edition": 43,
+    "date": 1634484999714,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Pink degraded"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "fc82e39557fe85445117582f258b42a7d6f79633",
+    "name": "#44",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/44.png",
+    "edition": 44,
+    "date": 1634485000484,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Red squares"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "bb7e485049b15e7d96f8361677018a3a945d8aca",
+    "name": "#45",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/45.png",
+    "edition": 45,
+    "date": 1634485000827,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "degraded_purple"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Aqua"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d0b572789dc2f1a1dd43de37676ac9523ff28965",
+    "name": "#46",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/46.png",
+    "edition": 46,
+    "date": 1634485001225,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "degraded_aqua"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "fancy_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "f7d36c2166002054e752301bf7558aaac04fe546",
+    "name": "#47",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/47.png",
+    "edition": 47,
+    "date": 1634485001936,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "1bc3314bee8710c2368acb26fea082fdb6c1884e",
+    "name": "#48",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/48.png",
+    "edition": 48,
+    "date": 1634485002491,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "762868782cc2c088a33876a49bff629bfb62b8a3",
+    "name": "#49",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/49.png",
+    "edition": 49,
+    "date": 1634485002853,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "light_green"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "edf6d75e71f2b4caea0a4fd6064a5e32e6f98be8",
+    "name": "#50",
+    "description": "Though Penguins",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/50.png",
+    "edition": 50,
+    "date": 1634485003492,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "static"
+      },
+      {
+        "trait_type": "Beak",
+        "value": "exotic"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Accesories",
+        "value": "Cigar"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
